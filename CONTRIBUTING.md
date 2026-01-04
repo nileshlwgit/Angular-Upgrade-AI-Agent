@@ -11,9 +11,9 @@ Click the **Fork** button on GitHub and clone your fork locally.
 ### 2. Create a branch
 Use a descriptive branch name with convention below
 
-feature/xxx-xxx-xxx
-fix/xxx-xxx
-docs/xxx-xxx
+- feature/xxx-xxx-xxx
+- fix/xxx-xxx
+- docs/xxx-xxx
 
 
 ### 3. Make your changes
