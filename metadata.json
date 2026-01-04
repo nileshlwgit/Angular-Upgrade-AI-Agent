@@ -1,0 +1,5 @@
+{
+  "name": "NgUpgrade AI Agent",
+  "description": "A multi-agent system powered by Gemini 3.0 to automate, visualize, and execute Angular version upgrades with intelligent dependency analysis and code refactoring.",
+  "requestFramePermissions": []
+}
